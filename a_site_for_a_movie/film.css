@@ -1,0 +1,51 @@
+body {
+	
+	background-color: rgb(151, 182, 197);;
+	
+}
+
+
+header {
+	height: 100px;
+	width: 100%;
+	background-color: rgb(151, 182, 197);;
+	text-align: center;
+	margin: auto;
+
+}
+
+footer {
+	height: 100px;
+	width: 100%;
+	background-color: rgb(151, 182, 197);;
+	text-align: center;
+	margin: auto;
+
+}
+
+article {
+	height: 1000px;
+	width: 1000px;
+	margin: auto;;
+	background-color: rgb(151, 182, 197);;
+	color: black;
+}
+
+img {
+	height: 60%;
+	width: 60%;
+	text-align: center;
+	margin: auto;
+}
+
+nav {
+    font-family: "Times New Roman", Times, serif;
+      border: 2px solid blue;
+
+    
+}
+img {
+	margin-left: auto;
+    margin-right: auto;
+    width: 60em
+}
