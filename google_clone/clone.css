@@ -1,0 +1,103 @@
+/*Stylesheet */
+
+body{
+font: small arial,sans-serif;
+font-size: medium;
+  min-width: 1082px;
+}
+
+.content{
+	padding-bottom: 300px
+
+}
+.clearfix {
+	clear: both;
+}
+
+.header{
+	padding-top: 25px;
+	padding-right: 15px; 
+
+}
+
+.header nav {
+	float: right;
+}
+
+.header nav ul li {
+	list-style-type: none;
+	display: inline;
+	padding-left: 10px;
+}
+
+.header nav ul li a {
+	color: #000;
+	text-decoration: none;
+}
+
+.header nav ul li a:hover {
+	border-bottom: 1px solid #000;
+}
+
+.header nav ul li .sing-in {
+	background: #4485F3;
+	padding: 7px 15px;
+	border-radius: 2px 2px 2px;
+	color: #fff;
+}
+
+
+.content.google-logo {
+	padding-top: 100px;
+	
+
+}
+img.center-block {
+    
+    max-width: 35%;
+    display: block;
+    margin: 0 auto;
+}
+
+input[type="text"] {
+    display: block;
+    margin: 0 auto;
+}
+
+.content {
+    padding-top: 300px;
+}
+
+.button {
+    text-align: center;
+    padding-top: 10px;
+}
+
+ul li{
+  display: inline;
+}
+
+footer {
+  font-size: 12px;
+  position: fixed;
+  padding-bottom: 14px;
+  bottom:0;
+  height: 32px;
+  width: 100%;
+  background-color: #EFEFEF;
+}
+
+.foot1 {
+	  margin: 0 0 0 25px;
+  float: left;
+
+}
+
+.foot2 {
+  	margin: 0 20px 0 0;
+  	float: right;
+}
+
+input [type=text] {
+    background-image: url('micro.png');
+}
